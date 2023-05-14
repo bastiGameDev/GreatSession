@@ -13,7 +13,7 @@ namespace SESSIONWPF
     /// </summary>
     public partial class App : Application
     {
-        public static string ConnectionString = @"Data Source = DESKTOP-GSTE41V\MPTSERVER; Initial Catalog = Confectionery; Persist Security Info = true; User ID = sa; Password = '123';";
+        public static string ConnectionString = @"Data Source = LAPTOP-K84V7A9L\MYSQLSERVER; Initial Catalog = Confectionery; Persist Security Info = true; User ID = sa; Password = 'aslan2003';";
 
         
     }
